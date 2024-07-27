@@ -1,7 +1,7 @@
 # Java Socket Programming Chat Application
 
 
-This project demonstrates a simple console based chat application using Java Socket programming. It consists of two main classes: Server.java and Client.java. The server listens for incoming client connections, and both the server and client can send and receive messages.
+This project demonstrates a simple `console-based` chat application using `Java Socket programming`. It consists of two main classes: Server.java and Client.java. The server listens for incoming client connections, and both the server and client can send and receive messages.
 
 ## Features
 - Simple console-based chat application.
@@ -15,20 +15,20 @@ This project demonstrates a simple console based chat application using Java Soc
 - Java Development Kit (JDK) installed on your machine.
 - An IDE or text editor of your choice.
 ### Running the Server
-1. Compile the Server.java file:
+1. Compile the `Server.java` file:
 ```sh
 javac Server.java
 ```
-2. Run the Server class:
+2. Run the `Server class`:
 ```sh
 java Server
 ```
 ### Running the Client
-1. Compile the Client.java file:
+1. Compile the `Client.java` file:
 ```sh
 javac Client.java
 ```
-2. Run the Client class:
+2. Run the `Client class`:
 ```sh
 java Client
 ```
