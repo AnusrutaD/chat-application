@@ -36,7 +36,7 @@ java Client
 ## Code Structure
 ### Server.java
 
-The `Server` class handles incoming connections and communication with the client. It consists of the following main components:
+The `Server` class handles incoming connections and communication with the `client`. It consists of the following main components:
 
 - **ServerSocket:** Listens for incoming connections.
 - **Socket:** Manages the connection with the client.
@@ -60,7 +60,7 @@ The `Client` class connects to the server and handles communication. It consists
 
 ## Sequence Diagram
 
-Here's a simplified sequence diagram to illustrate the communication flow between the server and client:
+Here's a simplified sequence diagram to illustrate the communication flow between the `server` and `client`:
 
 ```mermaid
 sequenceDiagram
