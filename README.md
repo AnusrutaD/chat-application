@@ -1,5 +1,7 @@
 # Java Socket Programming Chat Application
 
+![1605204841054](https://github.com/user-attachments/assets/a0cb8ef9-2f6c-448c-8e52-7f9f5b7746aa)
+
 
 This project demonstrates a simple `console-based` chat application using `Java Socket programming`. It consists of two main classes: Server.java and Client.java. The server listens for incoming client connections, and both the server and client can send and receive messages.
 
